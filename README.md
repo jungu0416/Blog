@@ -1,17 +1,17 @@
 # Blog
-블로그
+블로그  
 
-회원관리 인증,권한 Spring Security / Custom annotation / AOP
+회원관리 인증,권한 Spring Security / Custom annotation / AOP  
 
-JPA
+JPA  
 
-JWT
+JWT  
 
-domain packaging
+domain packaging  
 
-page sort (paging)
+page sort (paging)  
 
-scheduler + batch
+scheduler + batch  
 
-socket
+socket  
 
